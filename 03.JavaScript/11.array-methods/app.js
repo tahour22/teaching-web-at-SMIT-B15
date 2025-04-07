@@ -43,7 +43,7 @@ console.log(typeof fruits2);
 const fruits3 = ["apple", "banana"];
 
 fruits3.push("orange");
-fruits3[0] = "baryani";
+fruits3[0] = "biryani";
 
 fruits3 = [];
 
